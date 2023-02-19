@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './Feeds.css';
 import TweetBox from './TweetBox';
 import Post from './Post';
@@ -29,7 +29,7 @@ function Feeds() {
       />
       <Post
         displayName="Sunny boyyyy"
-        username="sunnYHere"
+        username="@sunnYHere"
         verified={false}
         text="How to be a good at pranking with no skill....... I will teach, you do not worry about anything."
         avatar="https://www.datocms-assets.com/36636/1643380218-female-yellow-jacket.png?auto=format&fit=max&q=60"
