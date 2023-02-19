@@ -8,7 +8,6 @@ function App() {
       {/* <h1>Hiii this is shubham making twitter clone</h1> */}
 
       <Sidebar />
-      {/* { sidebar} */}
 
       {/* { feed } */}
       <Feeds />
